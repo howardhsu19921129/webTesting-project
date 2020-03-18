@@ -8,6 +8,18 @@ body {
 }
 
 middle_place {
-	background-color: #0400ff
+	width: 90%;
+	height: 600px;
+	border-color: beige;
+	border-width: 3px;
+	border-style: dashed;
 
+}
+
+test_item{
+	border-color: chartreuse;
+	border-width: 3px;
+	border-style: dashed;
+	widows: 10%;
+	height: 300px;
 }
