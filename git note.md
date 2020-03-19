@@ -10,20 +10,21 @@ git branch <new_branchname> : 建立新的分支，會從當下所在的分支�
 
 git commit : 其實就是建立一個正式的版本。每個commit會有一個獨立的亂數id用以辨識。
 
-            commit記得寫message
+        commit記得寫message
 
 git merge : 簡單來說就是合併兩個分支。會在使用者當下所在的branch後面接著長一個新的commit，該commit屬於該branch上的一個新版本
 
 git push : 將一個新的commit推上repo上的某個branch(當下所在的branch)
 
-merge出狀況如何解決?
-如何放棄merge?
-how to force merge
-如何刪除分支?
-fetch vs pull ?
-local branch 與 traking branch的關係?
-"master" 這個名稱出現時，指的是local or remote端的branch?
-"origin" 應該是指remote 的名稱?
+
+        merge出狀況如何解決?
+        如何放棄merge?
+        how to force merge
+        如何刪除分支?
+        fetch vs pull ?
+        local branch 與 traking branch的關係?
+        "master" 這個名稱出現時，指的是local or remote端的branch?
+        "origin" 應該是指remote 的名稱?
 
 
 
